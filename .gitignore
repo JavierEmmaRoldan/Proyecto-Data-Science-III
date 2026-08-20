@@ -1,0 +1,9 @@
+# Ignorar la carpeta de datasets (¡Muy importante en Data Science!)
+data/
+
+# Ignorar archivos temporales de Python y entornos virtuales
+__pycache__/
+*.pyc
+.env
+venv/
+env/
